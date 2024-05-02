@@ -1,0 +1,14 @@
+Pre-requisites
+Node.js
+Visual Studio Code
+Xcode
+Apple account (to run app on real device)
+
+
+Set up
+ 1. After  cloning project
+       Do npm install   (to install repositories)
+2. Change directory to iOS folder  cd iOS/
+3. Install or update pods 
+       Pod install or pod install —repo-update
+4. Run the app
